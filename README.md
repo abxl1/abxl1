@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![abxl1's github stats](https://github-readme-stats.vercel.app/api?username=abxl1&show_icons=true)
+
 <a href="https://github.com/abxl1" target="_blank">
     <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="30" height="30">
         <title>Instagram</title>
