@@ -2,7 +2,7 @@
 
 ![abxl1's github stats](https://github-readme-stats.vercel.app/api?username=abxl1&show_icons=true)
 
-<a href="https://github.com/abxl1" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo="https://simpleicons.org/icons/javascript.svg"&logoColor=F7DF1E"/></a>
+<a href="https://github.com/abxl1" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=https://simpleicons.org/icons/javascript.svg&logoColor=F7DF1E"/></a>
 
 
 <!--
