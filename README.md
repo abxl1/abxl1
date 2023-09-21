@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
 
 <a href="https://github.com/abxl1" target="_blank"><img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=fff"/></a>
-<a href="https://abxl-l.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/T-STORY-ff5a4a?style=for-the-badge&logo=tistory&logoColor=fff"/></a>
+<a href="https://abxl-l.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TSTORY-ff5a4a?style=for-the-badge&logo=tistory&logoColor=fff"/></a>
 
 
 
