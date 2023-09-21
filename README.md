@@ -6,6 +6,8 @@
 <a><img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=#61DAFB"/></a>
 <a><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000"/></a>
 <a><img src="https://img.shields.io/badge/StyledComponents-000?style=for-the-badge&logo=STYLEDCOMPONENTS&logoColor=DB7093"/></a>
+<a><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=000"/></a>
+
 
 - 🌿 I'm growing for ...
 <a href="https://github.com/abxl1" target="_blank"><img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=fff"/></a>
