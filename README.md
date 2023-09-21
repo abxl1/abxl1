@@ -9,7 +9,7 @@
 <a><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=000"/></a>
 
 
-- 🌿 I'm growing for ...
+- 🌿 I'm growing for ... <br /><br />
 <a href="https://github.com/abxl1" target="_blank"><img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=fff"/></a>
 <a href="https://abxl-l.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TSTORY-ff5a4a?style=for-the-badge&logo=tistory&logoColor=fff"/></a>
 
