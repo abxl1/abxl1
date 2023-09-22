@@ -2,6 +2,9 @@
 
 ![abxl1's github stats](https://github-readme-stats.vercel.app/api?username=abxl1&show_icons=true)
 
+[![Solved.ac
+abxl1](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 - 🌱 I’m currently learning ... <br /><br />
 <a><img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=#61DAFB"/></a>
 <a><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000"/></a>
