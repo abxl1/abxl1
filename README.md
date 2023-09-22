@@ -3,7 +3,7 @@
 ![abxl1's github stats](https://github-readme-stats.vercel.app/api?username=abxl1&show_icons=true)
 
 [![Solved.ac
-abxl1](http://mazassumnida.wtf/api/v2/generate_badge?boj={abxl1})](https://solved.ac/{abxl1})
+abxl1](http://mazassumnida.wtf/api/v2/generate_badge?boj=abxl1)](https://solved.ac/abxl1)
 
 - 🌱 I’m currently learning ... <br /><br />
 <a><img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=#61DAFB"/></a>
