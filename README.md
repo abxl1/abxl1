@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=abxl's%20github&fontSize=90)
 <div align=center>
 
-## 🤘 Welcome to FrontEnd Developer ABXL's github
+## 🤘 Welcome to Full-stack Developer ABXL's github
 
 <br /><br />
 ![abxl's GitHub stats](https://github-readme-stats.vercel.app/api?username=abxl1&show_icons=true&theme=tokyonight)
