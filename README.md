@@ -12,23 +12,30 @@
 <br /><br />
 
 ### 🌱 I’m currently learning ... <br /><br />
+
+<a><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></a>
+<br /><br />
+
 <a><img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=#61DAFB"/></a>
 <a><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000"/></a>
 <a><img src="https://img.shields.io/badge/StyledComponents-000?style=for-the-badge&logo=STYLEDCOMPONENTS&logoColor=DB7093"/></a>
 <br /><br />
+
 <a><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=000"/></a>
 <a><img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=fff"/></a>
 <a><img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff"/></a>
 <br /><br />
+
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/></a>
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/></a>
-
 <br />
 
 ### 🌿 I'm growing up ... <br /><br />
 <a href="https://github.com/abxl1" target="_blank"><img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=fff"/></a>
+<a href="https://velog.io/@abxl/posts"><img src="https://img.shields.io/badge/VELOG-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@abxl/posts"/></a>
 <a href="https://abxl-l.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TSTORY-ff5a4a?style=for-the-badge&logo=tistory&logoColor=fff"/></a>
-
 <br />
 
 ### 🎲 Today' visit ... <br /><br />
@@ -37,8 +44,6 @@
 
 ### 📫 How to reach me: ... <br /><br />
 🔴 skdud7339@gmail.com  <br />
-🟢 etho_818@naver.com
-
 
 <!--
 **abxl1/abxl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
