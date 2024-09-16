@@ -42,7 +42,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabxl1&count_bg=%23000000&title_bg=%230051B4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-### 📫 How to reach me: ... <br /><br />
+### 📫 How to reach me ... <br /><br />
 🔴 skdud7339@gmail.com  <br />
 
 <!--
