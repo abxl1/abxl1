@@ -13,18 +13,22 @@
 
 ### 🌱 I’m currently learning ... <br /><br />
 
-<a><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=coffeescript&logoColor=white"></a>
+<img src="https://img.shields.io/badge/nodeJS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=coffeescript&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
 <br /><br />
 
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white"/> 
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"/>
+
 <br /><br />
 
 
 <!--
-<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white"/> 
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+
 <a><img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=#61DAFB"/></a>
 <a><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000"/></a>
 <a><img src="https://img.shields.io/badge/StyledComponents-000?style=for-the-badge&logo=STYLEDCOMPONENTS&logoColor=DB7093"/></a>
@@ -44,7 +48,7 @@
 -->
 
 ### 🌿 I'm growing up ... <br /><br />
-<a href="https://github.com/abxl1" target="_blank"><img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=fff"/></a>
+<a href="https://abxltobeadorable.notion.site/private-notion-11cf35df317480fd9e76c06adcda11a2?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=fff"/></a>
 <a href="https://velog.io/@abxl/posts"><img src="https://img.shields.io/badge/VELOG-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@abxl/posts"/></a>
 
 
@@ -52,7 +56,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabxl1&count_bg=%23000000&title_bg=%230051B4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-### 📫 How to reach me ... <br /><br />
+### 📫 How to reach me ... <br />
 🔴 skdud7339@gmail.com  <br />
 
 <!--
